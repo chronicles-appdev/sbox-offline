@@ -1,0 +1,7 @@
+{
+  "name": "sboxOffline",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
